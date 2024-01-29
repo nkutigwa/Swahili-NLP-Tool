@@ -1,1 +1,0 @@
-This is the site that contains informations for 15 categories, and each categories containing atleast 100 documents.
