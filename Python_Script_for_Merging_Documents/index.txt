@@ -1,0 +1,1 @@
+Here contains Python Script that merge the documents in each category for Swahili Language.
